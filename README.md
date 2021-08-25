@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericgarc90
-I am interested in leveraging data to guide effective policy recommendations and spur market innovations to advance environmental ans social causes. 
+I am interested in leveraging data to guide effective policy recommendations and spur market innovations to advance environmental and social causes. 
 Currently, I am working with Dr. Lawrence Goulder (Economics, Stanford) building a two-sector model that evaluates economic impacts of fuel standards and carbon taxes.
 I am also working with Dr. Larry Goulder and other collaboraters at Tsinghua University on the economic impacts of China's new Emissions Trading Scheme.
 
